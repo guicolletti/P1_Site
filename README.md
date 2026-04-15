@@ -4,4 +4,4 @@ Brasil encantado é um projeto criado para demonstrar o que aprendemos ao longo 
 
 Integrantes do grupo: Otávio Esboriol da Silva Guilherme Colletti da Silva
 
-Link do site Publicado: 
+Link do site Publicado: https://p1-site.onrender.com
